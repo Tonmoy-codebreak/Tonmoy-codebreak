@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/SWXWF42/github-header-image-1.png" alt="GitHub Header" width="100%" />
+  <img src="https://ibb.co.com/p6Nv2XzW" alt="GitHub Header" width="100%" />
 </p>
 # 💫 About Me:
 🔭 I’m currently working on BlogBox Website — a full-stack blogging platform built with React, Express.js, and MongoDB.<br><br>👯 I’m looking to collaborate on open-source frontend projects, especially those involving UI/UX animations or state management.<br><br>🤝 I’m looking for help with mastering advanced MongoDB aggregation pipelines and deployment best practices.<br><br>🌱 I’m currently learning Framer Motion for smooth UI animations, TanStack Table for powerful data tables, and full-stack app deployment with Vercel.<br><br>💬 Ask me about React, Express.js, REST APIs, user authentication, and building scalable web apps.<br><br>⚡ Fun fact: I love experimenting with new frontend tools and turning complex designs into pixel-perfect, responsive apps!
